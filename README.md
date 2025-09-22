@@ -1,2 +1,2 @@
 # Building-a-Random-Background-Color-Changer
-A webpage where clicking a button changes the background to a random color and shows its hex code.
+This project builds a small webpage with a button that, when clicked, picks a random color. The background updates instantly, and the current color’s hex code is displayed on the screen. It’s a fun way to practice debugging, DOM selection, and JavaScript event handling.
